@@ -9,3 +9,5 @@ var num3 = 29
 var isStudying = true
 var isFinished = false
 var isCaffinated = true
+
+var prework = ["Section 1", "Section 2", "Section 3", "Section 4"]
